@@ -14,7 +14,7 @@ namespace WindowsFormsApp4
     {
         public Login()
         {
-            InitializeComponent();
+            InitializeComponent(); //aa
         }
 
         private void button1_Click(object sender, EventArgs e)
