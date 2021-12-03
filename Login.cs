@@ -16,7 +16,7 @@ namespace WindowsFormsApp4
         {
             InitializeComponent(); 
         }
-        //aasdadsvbghfgh
+        //aa
         private void button1_Click(object sender, EventArgs e)
         {
             if (textBox1.Text.Trim() == "")
